@@ -1,0 +1,265 @@
+/*// Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) { 
+	/*header start*/
+.menu ul li a {
+    margin: 0 0px !important;
+    text-align: right;
+}
+   /*header end*/
+   /*1st cp start*/
+    .C_P {
+    padding: 40px 0;
+}
+.C_Pp {
+    padding-bottom: 23px;
+}
+   /*1st cp end*/
+   /*feather start*/
+   .f_i {
+    font-size: 50px;
+}
+.f_h5 {
+    font-size: 28px;
+}
+.f_p {
+    font-size: 17px;
+}
+.mar_t {
+    margin-top: 10px;
+}
+   /*feather end*/
+   /*how work star*/
+   .How_w {
+    padding-bottom: 78px;
+}
+   .c_title {
+    margin-top: 60px;
+}
+.Hh1_c {
+    font-size: 39px;
+}
+.Hp_c {
+    font-size: 23px;
+}
+.R_b {
+    padding-top: 28px !important;
+}
+.Im_g {
+    margin-bottom: 40px;
+}
+.but_hw {
+    padding: 32px 15px 0;
+}
+.But_t {
+    font-size: 16px;
+}
+   /*how work star*/
+   /*slider start*/
+   .Slider {
+    padding: 62px 0;
+}
+   /*single item start*/
+   .s_h5 {
+    font-size: 16px !important;
+}
+   /*single item end*/
+   .cid li {
+    width: 13px;
+    height: 13px;
+    margin-bottom: -26px;
+}
+   /*slider end*/
+   /*team start*/
+   .Team {
+    padding: 44px 0;
+}
+.C_Ph {
+    font-size: 40px;
+}
+.C_Pp {
+    padding-bottom: 18px;
+    font-size: 22px;
+}
+.T_h {
+    font-size: 27px;
+    padding: 10px 0;
+}
+.T_p {
+    font-size: 18px;
+    line-height: 28px;
+}
+.T-but {
+    margin-top: 27px;
+}
+.B_Team {
+	font-size: 16px;
+}
+
+   /*team end*/
+   /*footer*/
+   footer {
+    padding: 45px 0;
+}
+   .F_T {
+    padding-bottom: 42px;
+}
+   .F_T p a {
+    font-size: 16px;
+    line-height: 30px;
+}
+
+}
+
+/*// Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) { 
+	/*header start*/
+.menu ul li a {
+    margin: 0 0px !important;
+    text-align: right;
+}
+    /*header end*/
+ /*1st cp start*/
+    .C_P {
+    padding: 40px 0;
+}
+.C_Pp {
+    padding-bottom: 23px;
+}
+.B_C {
+    font-size: 18px;
+}
+   /*1st cp end*/
+      /*feather start*/
+   .f_i {
+    font-size: 50px;
+}
+.f_h5 {
+    font-size: 28px;
+}
+   .f_p {
+    font-weight: 300;
+    font-size: 18px;
+    word-spacing: 1px;
+    line-break: 4px;
+    line-height: 37px;
+    letter-spacing: 1px;
+}
+.mar_t {
+    margin-top: 10px;
+}
+
+   /*feather end*/
+ 
+}
+
+/*// Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) { 
+	/*1st cp start*/
+    .C_P {
+    padding: 32px 0;
+} 
+.C_Ph{
+	font-size: 44px;
+}
+.C_Pp {
+    font-size: 21px;
+    padding-bottom: 29px;
+}
+.B_C{
+	font-size: 18px;
+}
+   /*1st cp end*/
+   /*feather start*/
+   .mar_t {
+    margin-top: 22px;
+}
+   .f_i {
+    font-size: 55px;
+    padding-bottom: 11px;
+}
+.f_h5 {
+    font-size: 25px;
+}
+.f_p {
+    font-size: 16px;
+}
+   /*feather end*/
+   /*big img start*/
+   .bu_t a {
+    margin-top: 185px !important;
+}
+   /*big img end*/
+   /*how work start*/
+   .How_w {
+    padding-bottom: 79px;
+}
+.c_title {
+    margin-top: 50px;
+}
+.R_b {
+    padding-top: 26px !important;
+}
+.Hh1_c {
+    font-size: 45px;;
+}
+.Hp_c {
+    font-size: 23px;
+}
+.Im_g {
+    margin-top: 95px;
+}
+.p_c {
+    font-size: 16px;
+}
+.But_t {
+    font-size: 17px;
+}
+   /*how work end*/
+   /*slider start*/
+   .Slider {
+    padding: 57px 0;
+}
+.s_h5 {
+    font-size: 18px;
+}
+   /*slider end*/
+   /*team start*/
+  .Team {
+    padding: 60px 0;
+}
+.C_Pp {
+    padding-bottom: 21px;
+}
+.T_h {
+    font-size: 28px;
+    padding: 10px 0;
+}
+.T_p {
+    font-size: 16px;
+    word-spacing: 1px;
+    line-height: 32px;
+}
+.T-but {
+    margin-top: 35px;
+}
+   /*team end*/
+   /*footer*/
+   footer {
+    padding: 55px 0;
+}
+   .F_T p a {
+    font-size: 16px;
+    line-height: 32px;
+}
+
+}
+
+/// Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+
+}
+
+/*// Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) { 
+
+}
